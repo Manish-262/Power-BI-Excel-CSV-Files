@@ -1,0 +1,76 @@
+Emp ID	Emp Name	Department	Date of Joining	Employment Type	Job Title
+KS-001	John Doe	Sales & Marketing	1/15/2018	Full-time	Sales Manager
+KS-002	Jane Smith	Sales & Marketing	2/22/2019	Part-time	Digital Marketing
+KS-003	Robert Johnson	Administration	3/11/2020	Contract	Procurement Manager
+KS-004	Mary Williams	Finance	4/6/2017	Full-time	Financial Analyst
+KS-005	James Brown	IT Support	5/18/2019	Temporary	IT Specialist
+KS-006	Patricia Garcia	Sales & Marketing	6/3/2021	Freelance	Customer Support
+KS-007	Michael Lee	Product Development	7/25/2020	Full-time	Product Manager
+KS-008	Elizabeth Taylor	Sales & Marketing	8/14/2018	Part-time	Operations Director
+KS-009	Charles Wilson	Research and Development	9/1/2019	Contract	Research and Development
+KS-010	Amy Moore	Research and Development	10/9/2017	Internship	Research Scientist
+KS-011	Andrew Jackson	Administration	11/5/2020	Temporary	Procurement Manager
+KS-012	Laura Harris	Administration	12/21/2021	Freelance	Distribution Manager
+KS-013	Kevin Clark	Administration	1/7/2022	Part-time	Legal Compliance Officer
+KS-014	Kimberly Lewis	Administration	2/12/2020	Full-time	Executive Assistant
+KS-015	Steven Walker	Finance	3/27/2018	Contract	Tax Manager
+KS-016	Jennifer Hall	Sales & Marketing	4/19/2021	Internship	Media Relations Manager
+KS-017	William Allen	Sales & Marketing	5/30/2019	Temporary	Corporate Strategy Analyst
+KS-018	Rebecca Young	Engineering	6/14/2020	Freelance	QA Tester
+KS-019	Benjamin King	Engineering	7/1/2017	Full-time	Software Developer
+KS-020	Susan Scott	Engineering	8/22/2021	Part-time	Training Coordinator
+KS-021	David Adams	Sales & Marketing	9/18/2020	Contract	Supply Chain Manager
+KS-022	Hannah Baker	Sales & Marketing	10/5/2019	Full-time	Building Services
+KS-023	Gary Martinez	Sales & Marketing	11/13/2018	Temporary	Graphic Designer
+KS-024	Christina Harris	Sales & Marketing	12/3/2017	Part-time	Strategic Planning Analyst
+KS-025	Paul Nelson	Sales & Marketing	1/20/2020	Full-time	Multimedia Specialist
+KS-026	Angela Carter	Sales & Marketing	2/8/2021	Internship	Customer Experience Specialist
+KS-027	Matthew Mitchell	Finance	3/17/2019	Contract	Financial Operations Manager
+KS-028	Rebecca Perez	IT Support	4/26/2022	Freelance	Cloud Solutions Architect
+KS-029	Michael Robinson	Sales & Marketing	5/9/2020	Full-time	Customer Success Manager
+KS-030	Laura Martinez	Product Development	6/1/2018	Temporary	Product Marketing Manager
+KS-031	Joseph Lee	Sales & Marketing	7/10/2019	Part-time	Business Operations Manager
+KS-032	Sharon Garcia	Research and Development	8/5/2021	Internship	Product Designer
+KS-033	Barbara Evans	Research and Development	9/9/2020	Contract	Product Designer
+KS-034	Joseph Moore	Administration	10/18/2018	Full-time	Vendor Relations
+KS-035	Emma Walker	Administration	11/24/2017	Temporary	Operations Research Analyst
+KS-036	Kevin Allen	Administration	12/6/2020	Full-time	Corporate Governance Manager
+KS-037	Linda Harris	Administration	1/15/2021	Part-time	Office Manager
+KS-038	Jason Clark	Finance	2/20/2019	Contract	Accounts Payable Specialist
+KS-039	Cynthia Roberts	Sales & Marketing	3/4/2020	Temporary	Press Secretary
+KS-040	Richard Lee	Sales & Marketing	4/13/2017	Freelance	Partnerships Manager
+KS-041	Julia King	Engineering	5/14/2021	Full-time	Process Improvement Specialist
+KS-042	Thomas Young	Engineering	6/21/2022	Part-time	Technology Solutions Architect
+KS-043	Patricia Davis	Engineering	7/18/2020	Internship	Onboarding Specialist
+KS-044	Jimmy Harris	Sales & Marketing	8/25/2018	Temporary	Logistics Coordinator
+KS-045	Lisa Moore	Sales & Marketing	9/30/2020	Contract	Facilities Planner
+KS-046	Jonathan Taylor	Sales & Marketing	10/22/2019	Full-time	UX/UI Designer
+KS-047	Rebecca Jackson	Sales & Marketing	11/6/2018	Part-time	Corporate Strategy Analyst
+KS-048	Eugene Robinson	Sales & Marketing	12/9/2020	Temporary	Brand Designer
+KS-049	Samantha Martinez	Sales & Marketing	1/23/2019	Contract	Customer Success Manager
+KS-050	Henry Davis	Finance	2/28/2021	Freelance	Audit Specialist
+KS-051	Carla Harris	IT Support	3/12/2017	Temporary	Software Development Engineer
+KS-052	George Wilson	Sales & Marketing	4/29/2020	Full-time	Client Relations Specialist
+KS-053	Patricia Thomas	Product Development	5/4/2021	Part-time	Innovation Lead
+KS-054	Evan Roberts	Sales & Marketing	6/22/2020	Contract	Performance Manager
+KS-055	Grace Williams	Research and Development	7/19/2019	Full-time	Market Intelligence Analyst
+KS-056	Adam Johnson	Research and Development	8/3/2018	Temporary	Market Intelligence Analyst
+KS-057	Megan Clark	Sales & Marketing	9/14/2020	Contract	Supply Chain Analyst
+KS-058	Joseph Scott	Administration	10/25/2019	Part-time	Distribution Manager
+KS-059	Emily Martinez	Administration	11/9/2021	Full-time	Environmental Compliance Officer
+KS-060	James King	Administration	12/13/2017	Internship	Office Administrator
+KS-061	Jennifer Brown	Finance	1/3/2021	Temporary	Financial Analyst
+KS-062	Michael Scott	Sales & Marketing	2/10/2020	Contract	Corporate Communications Manager
+KS-063	George Taylor	Sales & Marketing	3/24/2019	Full-time	Corporate Strategy Director
+KS-064	Elena Walker	Engineering	4/17/2020	Temporary	Quality Control Manager
+KS-065	William Evans	Engineering	5/25/2018	Part-time	Cloud Solutions Architect
+KS-066	Stephanie Wilson	Engineering	6/10/2021	Full-time	Training Specialist
+KS-067	Charles Moore	Sales & Marketing	7/23/2019	Internship	Inventory Manager
+KS-068	Alice Taylor	Sales & Marketing	8/15/2020	Contract	Facilities Coordinator
+KS-069	Kevin Brown	Sales & Marketing	9/29/2021	Full-time	Creative Director
+KS-070	Emma Davis	Sales & Marketing	10/3/2020	Temporary	Strategic Planning Director
+KS-071	Martin Lee	Sales & Marketing	11/28/2019	Part-time	Graphic Designer
+KS-072	Daniel Walker	Sales & Marketing	12/18/2020	Full-time	Customer Advocate
+	William Scott	IT Support	2/26/2021	Freelance	IT Support Specialist
+KS-074	William Scott	IT Support	2/25/2021	Freelance	IT Support Specialist
+	William Scott	IT Support	2/26/2021	Freelance	IT Support Specialist
